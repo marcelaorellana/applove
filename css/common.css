@@ -1,6 +1,8 @@
-/*
+ /*
  * Clases reutilizables para el proyecto
  * (Aquí pueden ir las clases de tu grid)
+ font-family: 'Monoton', cursive;
+ font-family: 'Raleway', sans-serif;
  */
 
 .mb-0 {
@@ -14,3 +16,4 @@
 .text-uppercase {
   text-transform: uppercase;
 }
+
