@@ -6,7 +6,7 @@
 	boxes.forEach(function(box){
 		box.addEventListener("click", function(){
 			
-			modal.innerHTML = "";
+			modal.innerHTML = ""; 
 
 			modal.innerHTML = box.innerHTML;			
 			
